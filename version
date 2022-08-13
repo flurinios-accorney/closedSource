@@ -1,2 +1,2 @@
-Version = '0.00001a'
-Announcement = 'Closed beta! no release date planned yet!'
+getgenv().Version = '0.00001a'
+getgenv().Announcement = 'Closed beta! no release date planned yet!'
