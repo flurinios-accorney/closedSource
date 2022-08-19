@@ -1,2 +1,2 @@
-getgenv().Ver = '0.00001a'
-getgenv().Announcement = 'Closed beta! no release date planned yet!'
+getgenv().Ver = 'pv_AUG_19_12:45'
+getgenv().Announcement = 'No release date planned yet!'
